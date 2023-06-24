@@ -1,6 +1,12 @@
-# Compound III Developer Workshop
+# Compound III Developer Workshop - ETHGlobal Waterloo 2023 Hackathon
 
 Example app that uses Compound III for supplying and borrowing.
+
+## Video Workshop
+
+This workshop video walks through building the app. The code from the video is in this repository.
+
+https://youtu.be/OjYe_5sVcTM
 
 ## Install
 
