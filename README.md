@@ -13,8 +13,8 @@ https://youtu.be/OjYe_5sVcTM
 Install Node.js at https://nodejs.org/
 
 ```
-git clone git@github.com:ajb413/compound-v3-workshop.git
-cd compound-v3-workshop/
+git clone https://github.com/ajb413/compound-ethwaterloo-2023-workshop.git
+cd compound-ethwaterloo-2023-workshop/
 npm install
 ```
 
